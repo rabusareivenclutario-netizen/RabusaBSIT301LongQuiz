@@ -9,6 +9,9 @@
       Title="Page2">
 
     <Grid>
-        <TextBlock Text="Page 2" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="32"/>
+        <TextBlock HorizontalAlignment="Center" VerticalAlignment="Top" FontSize="32" Margin="0,22,0,0" FontWeight="Bold" FontFamily="Yu Gothic"><Run Language="en-ph" Text="Favorite Things"/></TextBlock>
+        <Image HorizontalAlignment="Left" Height="334" Margin="52,87,0,0" VerticalAlignment="Top" Width="185" Source="/7bc57cb9e60c3531bf4e6274f688872b.jpg"/>
+        <Image HorizontalAlignment="Left" Height="351" Margin="262,87,0,0" VerticalAlignment="Top" Width="245" Source="/d76aef0cd92b0cbacbf57a76b5992127.jpg"/>
+        <Image HorizontalAlignment="Left" Height="324" Margin="526,87,0,0" VerticalAlignment="Top" Width="252" Source="/c9177362e5bf0400f160a86fb286e9a7.jpg"/>
     </Grid>
 </Page>

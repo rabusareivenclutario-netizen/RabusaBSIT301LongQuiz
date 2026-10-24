@@ -45,5 +45,15 @@ namespace RabusaBSIT301LongQuiz
         {
             Close();
         }
+
+        private void MenuItem_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void Main_Navigated(object sender, NavigationEventArgs e)
+        {
+
+        }
     }
 }

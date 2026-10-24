@@ -8,7 +8,9 @@
       d:DesignHeight="450" d:DesignWidth="800"
       Title="Page4">
 
-    <Grid>
-        <TextBlock Text="Page 4" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="32"/>
+    <Grid x:Name="__">
+        <TextBlock Text="Name: Reiven Rabusa" HorizontalAlignment="Left" VerticalAlignment="Top" FontSize="32" Margin="379,83,0,0" Height="45" Width="301"/>
+        <TextBlock Text="Section: BSIT-301" HorizontalAlignment="Left" VerticalAlignment="Top" FontSize="32" Margin="379,128,0,0" Height="45" Width="301"/>
+        <Image Margin="30,67,452,93" Source="/0cdbdd787ef0dd38a33d81bf9568a722.jpg"/>
     </Grid>
 </Page>

@@ -9,6 +9,8 @@
       Title="Page1">
 
     <Grid>
-        <TextBlock Text="Page 1" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="32"/>
+        <TextBlock Text="ID SELECTOR" HorizontalAlignment="Left" VerticalAlignment="Top" FontSize="45" Height="48" Margin="248,34,0,0" />
+        <Image HorizontalAlignment="Left" Height="304" Margin="68,120,0,0" VerticalAlignment="Top" Width="294" Source="/ae49746de09897e8b8f8521c96aa690f.jpg"/>
+        <Image HorizontalAlignment="Left" Height="291" Margin="492,123,0,0" VerticalAlignment="Top" Width="216" Source="/e641f7816f326ad132ce6ae01543127a.jpg"/>
     </Grid>
 </Page>

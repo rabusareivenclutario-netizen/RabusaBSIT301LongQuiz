@@ -9,6 +9,10 @@
       Title="Page3">
 
     <Grid>
-        <TextBlock Text="Page 3" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="32"/>
+        <TextBlock Text="About me" HorizontalAlignment="Left" VerticalAlignment="Top" FontSize="32" Margin="285,90,0,0"/>
+        <TextBlock Text="I love being IT" HorizontalAlignment="Left" VerticalAlignment="Top" FontSize="60" Margin="285,145,0,0"/>
+        <TextBlock Text=" I love you sabado"
+                   HorizontalAlignment="Left" VerticalAlignment="Top" FontSize="60" Margin="266,230,0,0"/>
+        <Image HorizontalAlignment="Left" Height="308" Margin="38,0,0,0" VerticalAlignment="Center" Width="231" Source="/488edb30fd47384f455b01fb05247e43.jpg"/>
     </Grid>
 </Page>
